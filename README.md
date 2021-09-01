@@ -1,6 +1,7 @@
+🇫🇮 [Finland](https://www.suomi.fi/frontpage)
+
+💼 [@niitsolutions](https://github.com/niitsolutions)
+
 📫 [tuukka@kassa.la](mailto:tuukka@kassa.la)
 
-<!---
-tkassala/tkassala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![stop doing javascript meme](https://tuukka.kassa.la/i/javascript.jpg)
